@@ -12,16 +12,19 @@ Bobby barnch says hello
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 why so ??
-=======
+[...]
+serneity
+>>>>>>> Stashed change
 serneity
 >>>>>>> Stashed changes
-=======
+[...]
 serneity
 >>>>>>> Stashed changes
-=======
+[...]
 serneity
 >>>>>>> Stashed changes
-=======
+[...]
 serneity
 >>>>>>> Stashed changes
