@@ -1,30 +1,34 @@
 from master here!!!
 
-<<<<<<< HEAD
+HEAD
 Bobby barnch says hello
 
 I'm bobbyman here for while now
-[...]
-Bobby barnch says hello
->>>>>>> bobby_branch
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+Bobby barnch says hello
+bobby_branch
+
+Updated upstream
+Updated upstream
+Updated upstream
+Updated upstream
+Updated upstream
+Updated upstream
 why so ??
-[...]
+
 serneity
->>>>>>> Stashed change
+Stashed change
 serneity
->>>>>>> Stashed changes
-[...]
+Stashed changes
+
 serneity
->>>>>>> Stashed changes
-[...]
+Stashed changes
+
 serneity
->>>>>>> Stashed changes
-[...]
+Stashed changes
+
 serneity
->>>>>>> Stashed changes
+Stashed changes
+
+serneity
+Stashed changes
