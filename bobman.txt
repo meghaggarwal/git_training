@@ -8,4 +8,8 @@ I'm bobbyman here for while now
 Bobby barnch says hello
 >>>>>>> bobby_branch
 
+<<<<<<< Updated upstream
 why so ??
+=======
+serneity
+>>>>>>> Stashed changes
