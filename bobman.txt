@@ -1,5 +1,9 @@
 from master here!!!
 
+<<<<<<< HEAD
 Bobby barnch says hello
 
 I'm bobbyman here for while now
+[...]
+Bobby barnch says hello
+>>>>>>> bobby_branch
